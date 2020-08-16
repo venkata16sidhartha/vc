@@ -16,7 +16,7 @@ Since companies like MeetSpace are too expensive for small offices and such and 
 
 ### Method 2, Deploying on your own server :-
 
-* Clone the repo using git clone https://github.com/Fazelesswhite/openMeet
+* Clone the repo using git clone https://github.com/venkata16sidhartha/vc
 * ` npm install`
 * You need to use SSL for it to work since nowadays browsers are insisting on SSL for WebRTC, do this by changing the line 21   of server.js file,
   `from .file({ file: 'settings.json' }); to .file({ file: 'settings.ssl.json' });`
@@ -27,14 +27,6 @@ Since companies like MeetSpace are too expensive for small offices and such and 
 
 [//]: <> (openMeet is a fork of tubertc, which is a good project too but is slow development wise.)
 
-### Buy me a cup of coffee <3
 
-1LHT8uYsmQW8rCQjx58CJVZLgGxKL5pL89
-
-^ Bitcoin RULZ ALL
-
-### License 
-
-MIT License
 
 
